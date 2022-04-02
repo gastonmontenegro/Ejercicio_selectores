@@ -1,2 +1,2 @@
-# Ejercicio_selectores
+# Cepit1
 Created with CodeSandbox
